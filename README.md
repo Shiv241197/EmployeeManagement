@@ -50,3 +50,10 @@ Built using **Java EE (JSP, Servlets, JDBC)** with an MVC architecture. It inclu
 1. **Clone this repository**
    ```bash
    git clone https://github.com/Shiv241197/EmployeeManagement.git
+
+   
+👩‍💻 Author
+Shivani Malokar
+📧 shivanimalokar7@gmail.com
+🔗 LinkedIn Profile
+
